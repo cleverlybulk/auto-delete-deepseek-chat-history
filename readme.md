@@ -5,6 +5,8 @@ what could happen if someone has access to my account well he will know that i h
 # How to use 
 1- copy script.js 
 2- open the console of the browser using F12 or click anywhere on the page and click on inspect element then chose the console tab 
+![Alt text describing the image](console-pic.png)
+
 3- write in the console 
 ```
 allow pasting
