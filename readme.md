@@ -59,3 +59,4 @@ or you can copy it from here :
 })();
 ```
 5- watch the magic !
+![Alt text describing the image](images/your-image.jpg)
