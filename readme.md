@@ -59,4 +59,4 @@ or you can copy it from here :
 })();
 ```
 5- watch the magic !
-![Alt text describing the image](Screenshot from 2025-08-20 00-14-41.png.png)
+![Alt text describing the image](watch-magic.png)
